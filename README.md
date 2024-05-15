@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mushafique Daudpota</h1>
-<h3 align="center">Principal QA Engineer | QA Automation Engineer @ TimeXperts Pvt. Ltd. | Manual & Automation Testing | Java | Selenium | Cucumber | Gherkin | CI/CD | Jenkins | Git | Bitbucket | Agile | Postman | SQL |</h3>
+<h3 align="center">Principal QA Engineer | Automation Engineer | Java | Selenium WebDriver | Cucumber | Gherkin | CI/CD | Jenkins | Git | Bitbucket | Agile | Postman | SQL | Jira |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushafique&label=Profile%20views&color=0e75b6&style=flat" alt="mushafique" /> </p>
 
